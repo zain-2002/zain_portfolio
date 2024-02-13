@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "start": "const Zain = ( name, passion ) =>",
+    "end": "Hello, my name is Zain Ul Abideen",
+    "speed": 60,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
+
+  "header": {
+    "name": "Zain Ul Abideen.",
+    "usp": "I turn your visionary ideas into tangible reality."
+  },
+
+  "paragraph": "A dedicated Mern Stack Web Developer 🚀 with a strong passion for building cutting-edge Web and Mobile Applications.",
+
+  "buttons": {
+    "primary": {
+      "title": "Contact Me",
+      "url": "zu381915@gmail.com",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zain99/",
+      "leaveSite": "true"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "acknowledgments": [
+    {
+      "person": "Zain Ul Abideen - Mern Stack Developer",
+      "link": "/",
+      "note": "Thank you for visiting."
+    }
+  ],
+
+  "links": [
+    {
+      "person": "",
+      "link": "",
+      "note": ""
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://github.com/zain-2002",
+      "icon": "github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/zain99",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://twitter.com/ZainUlA01987053",
+      "icon": "twitter"
+    },
+    {
+      "url": "https://www.facebook.com/zain202002",
+      "icon": "facebook"
+    }
+  ]
+}

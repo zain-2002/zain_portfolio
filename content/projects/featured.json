@@ -1,0 +1,54 @@
+[
+  {
+    "project": "People Prompts",
+    "url": "https://public-prompts-phi.vercel.app/",
+    "repo": "Public",
+    "descriptionTitle": "Elevate your creative journey with People prompts",
+    "description": "turning ideas into vibrant realities through intelligent suggestions.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "400",
+        "w": "660",
+        "url": "/img/msc-mock_stack/03.png",
+        "p":0
+      }
+    ],
+    "stack": [
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "nextjs", "name": "Next Js", "type": "devicon" },
+      { "key": "mongodb", "name": "Mongo DB", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "TodoApp Using Next Js",
+    "url": "https://todoapp-nextjs-silk.vercel.app/",
+    "repo": "Public",
+    "descriptionTitle": "Manage your Scheduled tasks using Todo App",
+    "description": "Helps you  in tracking tasks and ditinct them on the basis of importance.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "394",
+        "w": "430",
+        "url": "/img/portfolio-mock_single.png",
+        "p":55
+      }
+    ],
+    "stack": [
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "nextjs", "name": "Next Js", "type": "devicon" },
+      { "key": "mongodb", "name": "Mongo DB", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  }
+]
